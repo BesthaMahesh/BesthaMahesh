@@ -1,6 +1,9 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:1a1a2e,100:16213e&height=200&section=header&text=Mahesh%20Bestha&fontSize=50&fontColor=58a6ff&fontAlignY=38&desc=AI%20%26%20ML%20Engineer%20%7C%20Full-Stack%20Developer&descAlignY=58&descColor=8b949e&animation=fadeIn"/>
+<h1>
+  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
+  Hi, I'm Mahesh Bestha
+</h1>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/mahesh-bestha-354232303/">
@@ -103,9 +106,9 @@ mahesh = {
 
 | 🏷️ Project | 📋 Description | 🔧 Tech Stack | 🔗 Link |
 |:---|:---|:---|:---:|
-| 🤖 **AI Resume Analyzer** | AI-powered platform that analyzes resumes, scores them, and gives actionable feedback using LLMs | Python, React.js, Anthropic API | [View →](https://github.com/BesthaMahesh/ai-resume-platform) |
+| 🤖 **AI Resume Analyzer** | AI-powered platform that analyzes resumes, scores them, and gives actionable feedback using LLMs | Python, React.js, OpenAI API | [View →](https://github.com/BesthaMahesh/ai-resume-platform) |
 | 🛒 **ShopMe E-Commerce** | Full-featured e-commerce platform with product listings, cart, and payment integration | React.js, Node.js, MongoDB | [View →](https://github.com/BesthaMahesh/shopMe_Ecommerce) |
-| 🫀 **Medical Diagnosis Classifier** | ML model that classifies medical conditions from patient data with high accuracy | Python, Scikit-learn, Pandas | [View →](https://github.com/BesthaMahesh/Medical-diagnosis-classifier) |
+| 🌾 **Smart Farmer Marketplace** | Full-stack platform connecting farmers directly with buyers, eliminating middlemen | React.js, Node.js, Firebase, ML, CNN | [View →](https://github.com/BesthaMahesh/farmer) |
 
 </div>
 
@@ -158,7 +161,6 @@ mahesh = {
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:16213e,50:1a1a2e,100:0d1117&height=100&section=footer"/>
 
 <img src="https://komarev.com/ghpvc/?username=BesthaMahesh&label=Profile+Views&color=58a6ff&style=for-the-badge"/>
 

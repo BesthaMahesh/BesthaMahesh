@@ -139,7 +139,7 @@ mahesh = {
 |:---|:---|:---:|
 | Azure AI Fundamentals | Microsoft | Certified |
 | Oracle Cloud Infrastructure 2025 — GenAI Professional | Oracle | Certified |
-| Python: Beginner to Advanced for Data Professionals | — | Completed |
+| Python: Beginner to Advanced for Data Professionals | Codebasics | Completed |
 
 </div>
 
